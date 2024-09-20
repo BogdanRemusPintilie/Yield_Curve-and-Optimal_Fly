@@ -1,4 +1,4 @@
-This is how I would go through it:
+This is how I would go through (GOV BONDS) Yield Curve Arbitrage:
 
 1. **REPORT** contains an actual **Report.docx** (explains what I did conceptually but doesn't tackle the code)
 2. In **Code** in **PCA**, you will find the main notebook where there is everything apart from how I got to the predicted values of the PCs
