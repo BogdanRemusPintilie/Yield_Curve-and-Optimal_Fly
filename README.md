@@ -7,4 +7,4 @@ This is how I would go through it:
 
 I think that's pretty much it, with the rest being steps taken to perform the above.
 
-I had to write to a relatively knowledgeable audience (~ undergrads), so I explained briefly how the techniques that I used work (e.g., PCA).
+I had to write to a relatively knowledgeable audience (~ undergrads), so I explained briefly how PCA works.
