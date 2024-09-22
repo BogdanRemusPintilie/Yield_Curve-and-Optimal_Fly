@@ -1,4 +1,4 @@
-This is how I would go through **(GOV BONDS) Yield Curve Arbitrage** (It is not arbitrage. I started with this name and wouldn't spend the time reassuring that everything will work once I change the file path. One of the very last things to be done):
+This is how I would go through **Yield Curve & Optimal Fly**:
 
 1. **REPORT** contains an actual **Report.docx** (explains what I did conceptually but doesn't tackle the code). I had to write to a relatively knowledgeable audience (~ undergrads), so I explained briefly how PCA works.
 2. In **Code** in **PCA**, you will find the main notebook where there is everything apart from how I got to the predicted values of the PCs
