@@ -1,8 +1,11 @@
-This is how I would go through **Yield Curve & Optimal Fly**:
+This is how I would approach Yield Curve & Optimal Fly:
 
-1. **REPORT** contains an actual **Report.docx** (explains what I did conceptually but doesn't tackle the code). I had to write to a relatively knowledgeable audience (~ undergrads), so I explained briefly how PCA works.
-2. In **Code** in **PCA**, you will find the main notebook where there is everything apart from how I got to the predicted values of the PCs
-3. In **Code** in **Lasso regression**, you will find the formulas for the PCs
-4. In **Data** in **Expected values of predictor variables (6 mo horizon - 31-12-2024)** in **Work**, you will find the code used for predicting values of the predictor variables of the Lasso Regression
+The **REPORT** folder contains an actual **Report.docx**, which explains what I did conceptually but does not cover the code. I had to write for a relatively knowledgeable audience (roughly undergraduate level), so I briefly explained how PCA works.
 
-I think that's pretty much it, with the rest being steps taken to perform the above.
+In **Code** under the **PCA** section, you will find the main notebook, which contains everything except how I arrived at the predicted values of the PCs.
+
+In **Code** under the **Lasso regression** section, you will find the formulas for the PCs.
+
+In **Data**, under **Expected values of predictor variables (6-month horizon - 31-12-2024)**, located in **Work**, you will find the code used to predict the values of the predictor variables for the Lasso Regression.
+
+I think that covers everything, with the rest being the steps taken to perform the above.
