@@ -1,6 +1,6 @@
 This is how I would approach Yield Curve & Optimal Fly:
 
-The **REPORT** folder contains an actual **Report.docx**, which explains what I did conceptually and mentions the findings but does not cover the code ("hard-core" knowledge, in my opinion). I wrote in such a manner that the work would be accessible to more people.
+The **REPORT** folder contains an actual **Report.docx**, which explains what I did conceptually and mentions the findings but does not cover the code (what I consider 'hard-core' knowledge). I wrote it in a way that makes the work more accessible to a broader audience.
 
 In **Code** under the **PCA** section, you will find the main notebook, which contains everything except how I arrived at the predicted values of the PCs.
 
